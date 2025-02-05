@@ -1,22 +1,22 @@
 # Dairy Gradation System
 
-## 📌 Overview
+##  Overview
 The **Dairy Gradation System** is an advanced solution designed to evaluate and grade milk quality based on various factors. Utilizing a sophisticated machine learning model, this system provides accurate gradation results, ensuring quality control in the dairy industry.
 
-## 🚀 Features
+##  Features
 - **Automated Milk Quality Assessment**
 - **Data-Driven Gradation System**
 - **User-Friendly Interface**
 - **Seamless Data Integration**
 - **Scalable and Efficient Processing**
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Programming Language**: Python
 - **Frameworks & Libraries**: TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy
 - **Database**: SQLite / PostgreSQL (optional)
 - **Deployment**: Flask / FastAPI
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Dairy-Gradation-System/
 │-- data/               # Dataset storage
@@ -31,7 +31,7 @@ Dairy-Gradation-System/
 │-- README.md           # Project documentation
 ```
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/Bisht28/Dairy-Gradation-System.git
@@ -50,11 +50,11 @@ Dairy-Gradation-System/
    python app.py
    ```
 
-## 📊 Dataset & Model
+##  Dataset & Model
 - The model is trained on a dataset containing milk quality parameters like **pH level, fat content, density, temperature**, etc.
 - Uses **Supervised Learning** techniques to classify milk quality.
 
-## 📈 Usage
+## Usage
 1. Upload milk quality data.
 2. The system processes the data and classifies the milk.
 3. The result displays the milk grade (e.g., **Grade A, B, C**).
